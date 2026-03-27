@@ -5,4 +5,8 @@ print("Protein")
 dna_sequence = "ATGCGTAC"
 print(dna_sequence)
 gene_name = "BRCA1"
-print("The gene we are using is:", gene_name)
+print("The gene we are using is:", gene_name) 
+dna = "ATGCCGAT"
+print(len(dna))
+print("ATG" in dna)
+print("ATT" in dna)
