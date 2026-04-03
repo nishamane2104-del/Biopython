@@ -15,3 +15,5 @@ rna = dna.transcribe()
 print(rna)
 
 print(rna.translate())
+protein = dna.translate()
+print(protein)
