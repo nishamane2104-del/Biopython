@@ -9,7 +9,7 @@ from Bio.Seq import Seq
 
 seq = Seq("ATGAATCGC")
 print(seq)
-# print(seq.complement())
+print(seq.complement())
 
 rna = dna.transcribe()
 print(rna)
