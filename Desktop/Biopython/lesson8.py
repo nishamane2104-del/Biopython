@@ -53,3 +53,21 @@ from Bio.Seq import Seq
 seq = Seq("ATGC")
 print("Complement:", seq.complement())
 print("Transcribed RNA:", seq.transcribe()) 
+
+# Que 3
+"""
+create two SeqRecords:
+ID = "GeneA", sequence = "ATGC"
+ID = "GeneB", sequence = "CGTA"
+
+Store them in a list and print each ID using a for loop 
+"""
+from Bio.Seq import Seq
+from Bio.SeqRecord import SeqRecord 
+record1 = SeqRecord(Seq("ATGC"), id="GeneA")
+record2 = SeqRecord(Seq("CGTA"), id="GeneB")
+
+records = [record1, record2]
+
+for record in records:
+    print(record.id)

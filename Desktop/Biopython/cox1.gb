@@ -1,0 +1,73 @@
+LOCUS       OM986073                1542 bp    DNA     linear   PRI 19-MAR-2022
+DEFINITION  Homo sapiens isolate Mitochondrion cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OM986073
+VERSION     OM986073.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1542)
+  AUTHORS   Majed,S.O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAR-2022) Biology, Salahaddin University-Erbil,
+            Kirkuk Road, Erbil, Erbil 44001, Iraq
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1542
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Mitochondrion"
+                     /db_xref="taxon:9606"
+     gene            <1..1542
+                     /gene="COX1"
+     CDS             <1..1542
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="UNF16977.1"
+                     /translation="MFADRWLFSTNHKDIGTLYLLFGAWAGVLGTALSLLIRAELGQP
+                     GNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSLLLLLASAMVEAGAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGVSSILG
+                     AINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVTYYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGSNMKW
+                     SAAVLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FIHWFPLFSGYTLDQTYAKIHFTIMFIGVNLTFFPQHFLGLSGMPRRYSDYPDAYTTW
+                     NILSSVGSFISLTAVMLMIFMIWEAFASKRKVLMVEEPSMNLEWLYGCPPPYHTFEEP
+                     VYMKS"
+ORIGIN      
+        1 atgttcgccg accgttgact attctctaca aaccacaaag acattggaac actataccta
+       61 ttattcggcg catgagctgg agtcctaggc acagctctaa gcctccttat tcgagccgag
+      121 ctgggccagc caggcaacct tctaggtaac gaccacatct acaacgttat cgtcacagcc
+      181 catgcatttg taataatctt cttcatagta atacccatca taatcggagg ctttggcaac
+      241 tgactagttc ccctaataat cggtgccccc gatatggcgt ttccccgcat aaacaacata
+      301 agcttctgac tcttacctcc ctctctccta ctcctgctcg catctgctat agtggaggcc
+      361 ggagcaggaa caggttgaac agtctaccct cccttagcag ggaactactc ccaccctgga
+      421 gcctccgtag acctaaccat cttctcctta cacctagcag gtgtctcctc tatcttaggg
+      481 gccatcaatt tcatcacaac aattatcaat ataaaacccc ctgccataac ccaataccaa
+      541 acgcccctct tcgtctgatc cgtcctaatc acagcagtcc tacttctcct atctctccca
+      601 gtcctagctg ctggcatcac tatactacta acagaccgca acctcaacac caccttcttc
+      661 gaccccgccg gaggaggaga ccccattcta taccaacacc tattctgatt tttcggtcac
+      721 cctgaagttt atattcttat cctaccaggc ttcggaataa tctcccatat tgtaacttac
+      781 tactccggaa aaaaagaacc atttggatac ataggtatgg tctgagctat gatatcaatt
+      841 ggcttcctag ggtttatcgt gtgagcacac catatattta cagtaggaat agacgtagac
+      901 acacgagcat atttcacctc cgctaccata atcatcgcta tccccaccgg cgtcaaagta
+      961 tttagctgac tcgccacact ccacggaagc aatatgaaat gatctgctgc agtgctctga
+     1021 gccctaggat tcatctttct tttcaccgta ggtggcctga ctggcattgt attagcaaac
+     1081 tcatcactag acatcgtact acacgacacg tactacgttg tagcccactt ccactatgtc
+     1141 ctatcaatag gagctgtatt tgccatcata ggaggcttca ttcactgatt tcccctattc
+     1201 tcaggctaca ccctagacca aacctacgcc aaaatccatt tcactatcat attcatcggc
+     1261 gtaaatctaa ctttcttccc acaacacttt ctcggcctat ccggaatgcc ccgacgttac
+     1321 tcggactacc ccgatgcata caccacatga aacatcctat catctgtagg ctcattcatt
+     1381 tctctaacag cagtaatatt aataattttc atgatttgag aagccttcgc ttcgaagcga
+     1441 aaagtcctaa tagtagaaga accctccata aacctggagt gactatatgg atgcccccca
+     1501 ccctaccaca cattcgaaga acccgtatac ataaaatcta ga
+//
+
