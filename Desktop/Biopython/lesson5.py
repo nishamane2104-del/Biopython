@@ -8,9 +8,9 @@ print(len(dna))
  "ATGCGTACGTAGC"
 Print the total number of nucleotides in the above sequence
 """
-dna = "ATGCGTACGTAGC"
-length = len(dna)
-print("The total number of nucleotides in the sequence is", length)
+# dna = "ATGCGTACGTAGC"
+# length = len(dna)
+# print("The total number of nucleotides in the sequence is", length)
 #Question 2: Accessing specific nucleotides in a DNA sequence
 """
 Given the DNA seq:
